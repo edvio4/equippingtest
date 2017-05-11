@@ -1,0 +1,2 @@
+
+(function($){$(function(){new FLBuilderPostCarousel({id:'590d2a951ee68',layout:'gallery',slideWidth:300,settings:{auto:false,pause:5000,speed:1000,infiniteLoop:false,adaptiveHeight:true,controls:false,autoHover:true,slideMargin:30,moveSlides:1,}});});})(jQuery);

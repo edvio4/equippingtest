@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'brusher';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/170414055833Brusher.eot');
+				src: local('brusher'), url('/wp-content/uploads/useanyfont/170414055833Brusher.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/170414055833Brusher.woff') format('woff');
+			}
+            
+            .brusher{font-family: 'brusher' !important;}
+            
+						.site-header .title-area a{
+					font-family: 'brusher' !important;
+				}
+		
