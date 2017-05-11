@@ -262,3 +262,5 @@ genesis_register_sidebar( array(
 	'name'        => __( 'Bottom Sidebar', 'beautiful' ),
 	'description' => __( 'This is the bottom sidebar widget area.', 'beautiful' ),
 ) );
+
+// test
